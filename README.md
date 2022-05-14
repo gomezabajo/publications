@@ -2,7 +2,7 @@
 Publications by Pablo Gómez-Abajo
 
 Name | Authors | Conference/Journal/Event | Location | Award | Year |
---- | --- | --- | --- | ---- |
+--- | --- | --- | --- | -- | -- |
 [A domain-specific language for model mutation and its application to the automated generation of exercises](http://www.iiisci.org/journal/sci/FullText.asp?var=&id=SA367OQ17) | Pablo Gómez-Abajo, Esther Guerra, Juan de Lara | Computer Languages, Systems and Structures (Elsevier), Vol 49 (September). pp.:152-173 | -- | Best papers of Programming Languages track at SAC'16 | 2017
 [How to apply the user profile usability technique in the user modelling activity for an adaptive food recommendation system for people on special diets (extended version)](http://www.iiisci.org/journal/sci/FullText.asp?var=&id=SA367OQ17) | Lucrecia Llerena, Nancy Rodríguez, Pablo Gómez-Abajo, John W. Castro | Journal of Systemics Cybernetics and Informatics (JSCI) | -- | -- |2017
 [A DSL for model mutation and its applications to different domains](http://ceur-ws.org/Vol-1735/paper4.pdf) | Pablo Gómez-Abajo | Doctoral Symposium at the International Conference of Model-Driven Engineering Languages and Systems 2016 (MoDELS) | Saint-Malo |  -- |2016
