@@ -1,5 +1,6 @@
 # Publications
-Publications by Pablo Gómez-Abajo
+
+This page contains links to files in Postscript (ps) or Portable Document Format (pdf) of articles which may be covered by copyright. Copying or distributing these files may violate copyright law. In any case, don't hesitate to contact me if you need an electronic copy of some of the papers or presentations. You can also have a look at my publications from the <a href="http://dblp.uni-trier.de/pers/hc/g/G=oacute=mez=Abajo:Pablo" target="_blank">DBLP</a> server and <a href="https://scholar.google.com/citations?user=h7VMrcIAAAAJ&hl=en" target="_blank">Google Scholar</a>.
 
 Name | Authors | Conference/Journal/Event | Location | Award | Year |
 --- | --- | --- | --- | -- | -- | 
