@@ -3,6 +3,9 @@ Publications by Pablo Gómez-Abajo
 
 Name | Authors | Conference/Journal/Event | Location | Award | Year |
 --- | --- | --- | --- | -- | -- | 
+[Wodel-Test: A language-independent approach for the generation of mutation testing tools]() | Pablo Gómez-Abajo, Esther Guerra, Juan de Lara, Mercedes G. Merayo | Workshop on Software Reliability for Madrid Flight On Chip | IMDEA Software Institute, Madrid | -- | 2019
+[Mutation testing for DSLs (tool demo)](https://dl.acm.org/doi/10.1145/3358501.3361234) | Pablo Gómez-Abajo | ACM SIGPLAN International Workshop on Domain-Specific Modeling (DSM) | Athens | -- | 2019
+[Desafíos éticos del coche autónomo](https://www.gomezabajo.es/pdf/UAM_coche_autonomo_2019.pdf) | Pablo Gómez-Abajo | Course 'Metodologías y problemas actuales de la investigación científica' | Universidad Autónoma de Madrid | -- | 2019
 [A tool for domain-independent model mutation](https://www.sciencedirect.com/science/article/pii/S0167642318300261) | Pablo Gómez-Abajo, Esther Guerra, Juan de Lara, Mercedes G. Merayo | Science of Computer Programming, (Elsevier), Vol 163 (October). pp.:85-92. | -- | -- | 2018
 [Towards a model-driven engineering solution for language independent mutation testing](https://biblioteca.sistedes.es/submissions/descargas/2018/JISBD/2018-JISBD-055.pdf) | Pablo Gómez-Abajo, Esther Guerra, Juan de Lara, Mercedes G. Merayo | Jornadas de Ingeniería del Software y Bases de Datos (JISBD) | Sevilla | -- | 2018
 [Un entorno de pruebas de mutación para sistemas de control del tráfico](https://www.gomezabajo.es/pdf/UAM_wodel_trafico_2018.pdf) | Pablo Gómez-Abajo | Course 'Metodologías y problemas actuales de la investigación científica' | Universidad Autónoma de Madrid | -- | 2018
