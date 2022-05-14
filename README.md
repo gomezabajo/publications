@@ -3,7 +3,7 @@ Publications by Pablo Gómez-Abajo
 
 Name | Authors | Conference/Journal/Event | Location | Award | Year |
 --- | --- | --- | --- | -- | -- | 
-[A tool for domain-independent model mutation](https://www.sciencedirect.com/science/article/pii/S0167642318300261) | Pablo Gómez-Abajo, Esther Guerra, Juan de Lara, Mercedes G. Merayo | Science of Computer Programming, (Elsevier), Vol 163 (October).pp.:85-92. | -- | -- | 2018
+[A tool for domain-independent model mutation](https://www.sciencedirect.com/science/article/pii/S0167642318300261) | Pablo Gómez-Abajo, Esther Guerra, Juan de Lara, Mercedes G. Merayo | Science of Computer Programming, (Elsevier), Vol 163 (October). pp.:85-92. | -- | -- | 2018
 [Towards a model-driven engineering solution for language independent mutation testing](https://biblioteca.sistedes.es/submissions/descargas/2018/JISBD/2018-JISBD-055.pdf) | Pablo Gómez-Abajo, Esther Guerra, Juan de Lara, Mercedes G. Merayo | Jornadas de Ingeniería del Software y Bases de Datos (JISBD) | Sevilla | -- | 2018
 [Un entorno de pruebas de mutación para sistemas de control del tráfico](https://www.gomezabajo.es/pdf/UAM_wodel_trafico_2018.pdf) | Pablo Gómez-Abajo | Course 'Metodologías y problemas actuales de la investigación científica' | Universidad Autónoma de Madrid | -- | 2018
 [Poster: "Adoption of the visual brainstorming technique in the open source software development process"](https://www.gomezabajo.es/pdf/ICSE_Poster_from_Research_Track_2018_3_complete.pdf) | Lucrecia Llerena, Nancy Rodríguez, Pablo Gómez-Abajo, John W. Castro, Silvia T. Acuña | International Conference on Software Engineering (ICSE) | Gothenburg | -- | 2018 
